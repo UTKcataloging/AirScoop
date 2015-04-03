@@ -3,7 +3,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=919</object_in_context>
         <identifier>airscoop_vol1-no23</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -38,7 +38,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=907</object_in_context>
         <identifier>airscoop_vol1-no12</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -73,7 +73,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=921</object_in_context>
         <identifier>airscoop_vol1-no25</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -108,7 +108,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=910</object_in_context>
         <identifier>airscoop_vol1-no15</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -143,7 +143,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=927</object_in_context>
         <identifier>airscoop_vol1-no7</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -178,7 +178,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=915</object_in_context>
         <identifier>airscoop_vol1-no2</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -213,7 +213,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=923</object_in_context>
         <identifier>airscoop_vol1-no3</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -248,7 +248,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=917</object_in_context>
         <identifier>airscoop_vol1-no21</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -283,7 +283,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=908</object_in_context>
         <identifier>airscoop_vol1-no13</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -318,7 +318,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=925</object_in_context>
         <identifier>airscoop_vol1-no5</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -353,7 +353,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=912</object_in_context>
         <identifier>airscoop_vol1-no17</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -388,7 +388,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=928</object_in_context>
         <identifier>airscoop_vol1-no8</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -423,7 +423,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=916</object_in_context>
         <identifier>airscoop_vol1-no20</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -458,7 +458,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=924</object_in_context>
         <identifier>airscoop_vol1-no4</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -493,7 +493,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=904</object_in_context>
         <identifier>airscoop_vol1-no1</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -528,7 +528,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=906</object_in_context>
         <identifier>airscoop_vol1-no11</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -563,7 +563,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=929</object_in_context>
         <identifier>airscoop_vol1-no9</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -598,7 +598,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=913</object_in_context>
         <identifier>airscoop_vol1-no18</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -633,7 +633,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=911</object_in_context>
         <identifier>airscoop_vol1-no16</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -668,7 +668,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=914</object_in_context>
         <identifier>airscoop_vol1-no19</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -703,7 +703,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=922</object_in_context>
         <identifier>airscoop_vol1-no28</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -738,7 +738,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=918</object_in_context>
         <identifier>airscoop_vol1-no22</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -773,7 +773,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=909</object_in_context>
         <identifier>airscoop_vol1-no14</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -808,7 +808,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=905</object_in_context>
         <identifier>airscoop_vol1-no10</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -843,7 +843,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=926</object_in_context>
         <identifier>airscoop_vol1-no6</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -878,7 +878,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=920</object_in_context>
         <identifier>airscoop_vol1-no24</identifier>
-        <identifier_opac>9913484060102311</identifier_opac>
+        <identifier_series_opac>9913484060102311</identifier_series_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
