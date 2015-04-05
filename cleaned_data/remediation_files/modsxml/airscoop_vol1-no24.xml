@@ -5,18 +5,19 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
-   <identifier type="local">airscoop_vol1-no25</identifier>
-   <identifier type="filename">airscoop_vol1-no25_0001.jp2</identifier>
+   <identifier type="local">airscoop_vol1-no24</identifier>
+   <identifier type="opac">9913484060102311</identifier>
+   <identifier type="filename">airscoop_vol1-no24_0001.jp2</identifier>
    <name type="corporate">
       <namePart>United States. Army Air Forces. College Training Detachment, 63rd</namePart>
       <role>
          <roleTerm type="text"
                    authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+                   valueURI="ttp://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
       </role>
    </name>
    <titleInfo>
-      <title>Air-Scoop : 63rd C.T.D., hot pilot. Volume 1, Number 25</title>
+      <title>Air-Scoop : 63rd C.T.D., hot pilot. Volume 1, Number 24</title>
    </titleInfo>
    <typeOfResource>text</typeOfResource>
    <originInfo>
@@ -24,8 +25,8 @@
          <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
       </place>
       <publisher>University of Tennessee</publisher>
-      <dateCreated>3/25/1944</dateCreated>
-      <dateCreated encoding="edtf" keyDate="yes">1944-03-25</dateCreated>
+      <dateCreated>3/18/1944</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1944-03-18</dateCreated>
    </originInfo>
    <physicalDescription>
       <extent>4 newspaper pages</extent>
@@ -41,7 +42,7 @@
    <note>This is a publication by students at the University of Tennessee, Knoxville.</note>
    <location>
       <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
-      <url access="object in context" usage="primary display">http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=921</url>
+      <url access="object in context" usage="primary display">http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=920</url>
    </location>
    <subject authority="lcsh">
       <topic>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944</topic>
@@ -76,16 +77,13 @@
             <number>Volume 1</number>
          </detail>
          <detail type="issue">
-            <number>Number 25</number>
+            <number>Number 24</number>
          </detail>
       </part>
-      <location>
-         <url>9913484060102311</url>
-      </location>
    </relatedItem>
-   <accessCondition type="use and reproduction">This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </accessCondition>
+   <accessCondition type="use and reproduction">The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
    <recordInfo>
-      <recordIdentifier>record_airscoop_vol1-no25</recordIdentifier>
+      <recordIdentifier>record_airscoop_vol1-no24</recordIdentifier>
       <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
       <languageOfCataloging>
          <languageTerm type="code" authority="iso639-2b">eng</languageTerm>

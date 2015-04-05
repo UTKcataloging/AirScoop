@@ -3,7 +3,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=919</object_in_context>
         <identifier>airscoop_vol1-no23</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -24,7 +24,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 23</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -38,7 +38,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=907</object_in_context>
         <identifier>airscoop_vol1-no12</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -59,7 +59,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 12</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -73,7 +73,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=921</object_in_context>
         <identifier>airscoop_vol1-no25</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -94,7 +94,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 25</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -108,7 +108,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=910</object_in_context>
         <identifier>airscoop_vol1-no15</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -129,7 +129,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 15</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -143,7 +143,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=927</object_in_context>
         <identifier>airscoop_vol1-no7</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -164,7 +164,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 7</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -178,7 +178,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=915</object_in_context>
         <identifier>airscoop_vol1-no2</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -199,7 +199,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 2</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -213,7 +213,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=923</object_in_context>
         <identifier>airscoop_vol1-no3</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -234,7 +234,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 3</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -248,7 +248,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=917</object_in_context>
         <identifier>airscoop_vol1-no21</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -269,7 +269,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 21</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -283,7 +283,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=908</object_in_context>
         <identifier>airscoop_vol1-no13</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -304,7 +304,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 13</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -318,7 +318,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=925</object_in_context>
         <identifier>airscoop_vol1-no5</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -339,7 +339,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 5</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -353,7 +353,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=912</object_in_context>
         <identifier>airscoop_vol1-no17</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -374,7 +374,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 17</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -388,7 +388,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=928</object_in_context>
         <identifier>airscoop_vol1-no8</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -409,7 +409,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 8</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -423,7 +423,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=916</object_in_context>
         <identifier>airscoop_vol1-no20</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -444,7 +444,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 20</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -458,7 +458,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=924</object_in_context>
         <identifier>airscoop_vol1-no4</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -479,7 +479,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 4</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -493,7 +493,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=904</object_in_context>
         <identifier>airscoop_vol1-no1</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -514,7 +514,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 1</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -528,7 +528,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=906</object_in_context>
         <identifier>airscoop_vol1-no11</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -549,7 +549,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 11</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -563,7 +563,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=929</object_in_context>
         <identifier>airscoop_vol1-no9</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -584,7 +584,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 9</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -598,7 +598,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=913</object_in_context>
         <identifier>airscoop_vol1-no18</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -619,7 +619,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 18</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -633,7 +633,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=911</object_in_context>
         <identifier>airscoop_vol1-no16</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -654,7 +654,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 16</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -668,7 +668,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=914</object_in_context>
         <identifier>airscoop_vol1-no19</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -689,7 +689,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 19</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -703,7 +703,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=922</object_in_context>
         <identifier>airscoop_vol1-no28</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -724,7 +724,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 28</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -738,7 +738,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=918</object_in_context>
         <identifier>airscoop_vol1-no22</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -759,7 +759,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 22</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -773,7 +773,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=909</object_in_context>
         <identifier>airscoop_vol1-no14</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -794,7 +794,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 14</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -808,7 +808,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=905</object_in_context>
         <identifier>airscoop_vol1-no10</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -829,7 +829,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 10</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -843,7 +843,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=926</object_in_context>
         <identifier>airscoop_vol1-no6</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -864,7 +864,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 6</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
@@ -878,7 +878,7 @@
     <row>
         <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=920</object_in_context>
         <identifier>airscoop_vol1-no24</identifier>
-        <identifier_series_opac>9913484060102311</identifier_series_opac>
+        <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
         <collection_identifier>MS.2816</collection_identifier>
         <subject_topical>University of Tennessee (Knoxville campus)--Students--Newspapers--1943-1944 | lcsh</subject_topical>
@@ -899,7 +899,7 @@
         <series_title>Air Scoop</series_title>
         <series_volume>Volume 1</series_volume>
         <series_issue>Number 24</series_issue>
-        <rights>This compilation is copyrighted by the University of Tennessee. Images, text, or other content downloaded from the collection may be freely used for non-profit educational and research purposes, or any other use falling within the purview of "Fair Use." For any other use, contact the University of Tennessee Libraries. </rights>
+        <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
         <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
