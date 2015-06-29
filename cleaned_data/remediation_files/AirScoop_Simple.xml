@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=919</object_in_context>
         <identifier>airscoop_vol1-no23</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -17,7 +16,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1944-03-11</date_single_start>
         <date_text>3/11/1944</date_text>
         <title>Air-Scoop : 63rd C.T.D., hot pilot. Volume 1, Number 23</title>
@@ -26,17 +24,14 @@
         <series_issue>Number 23</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no23/airscoop_vol1-no23_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no23_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=907</object_in_context>
         <identifier>airscoop_vol1-no12</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -52,7 +47,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1943-12-25</date_single_start>
         <date_text>12/25/1943</date_text>
         <title>Air-Scoop : 63rd C.T.D., hot pilot. Volume 1, Number 12</title>
@@ -61,17 +55,14 @@
         <series_issue>Number 12</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no12/airscoop_vol1-no12_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no12_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=921</object_in_context>
         <identifier>airscoop_vol1-no25</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -87,7 +78,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1944-03-25</date_single_start>
         <date_text>3/25/1944</date_text>
         <title>Air-Scoop : 63rd C.T.D., hot pilot. Volume 1, Number 25</title>
@@ -96,17 +86,14 @@
         <series_issue>Number 25</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no25/airscoop_vol1-no25_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no25_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=910</object_in_context>
         <identifier>airscoop_vol1-no15</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -122,7 +109,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1944-01-15</date_single_start>
         <date_text>1/15/1944</date_text>
         <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 15</title>
@@ -131,17 +117,14 @@
         <series_issue>Number 15</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no15/airscoop_vol1-no15_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no15_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=927</object_in_context>
         <identifier>airscoop_vol1-no7</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -157,7 +140,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1943-11-22</date_single_start>
         <date_text>11/22/1943</date_text>
         <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 7</title>
@@ -166,17 +148,14 @@
         <series_issue>Number 7</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no7/airscoop_vol1-no7_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no7_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=915</object_in_context>
         <identifier>airscoop_vol1-no2</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -192,7 +171,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1943-10-16</date_single_start>
         <date_text>10/16/1943</date_text>
         <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 2</title>
@@ -201,17 +179,14 @@
         <series_issue>Number 2</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no2/airscoop_vol1-no2_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no2_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=923</object_in_context>
         <identifier>airscoop_vol1-no3</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -227,7 +202,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1943-10-23</date_single_start>
         <date_text>10/23/1943</date_text>
         <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 3</title>
@@ -236,17 +210,14 @@
         <series_issue>Number 3</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no3/airscoop_vol1-no3_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no3_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=917</object_in_context>
         <identifier>airscoop_vol1-no21</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -262,7 +233,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1944-02-26</date_single_start>
         <date_text>2/26/1944</date_text>
         <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 21</title>
@@ -271,17 +241,14 @@
         <series_issue>Number 21</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no21/airscoop_vol1-no21_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no21_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=908</object_in_context>
         <identifier>airscoop_vol1-no13</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -297,7 +264,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1944-01-01</date_single_start>
         <date_text>1/1/1944</date_text>
         <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 13</title>
@@ -306,17 +272,14 @@
         <series_issue>Number 13</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no13/airscoop_vol1-no13_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no13_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=925</object_in_context>
         <identifier>airscoop_vol1-no5</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -332,7 +295,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1943-11-06</date_single_start>
         <date_text>11/6/1943</date_text>
         <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 5</title>
@@ -341,17 +303,14 @@
         <series_issue>Number 5</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no5/airscoop_vol1-no5_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no5_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=912</object_in_context>
         <identifier>airscoop_vol1-no17</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -367,7 +326,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1944-01-29</date_single_start>
         <date_text>1/29/1944</date_text>
         <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 17</title>
@@ -376,17 +334,14 @@
         <series_issue>Number 17</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no17/airscoop_vol1-no17_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no17_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=928</object_in_context>
         <identifier>airscoop_vol1-no8</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -402,7 +357,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1943-11-27</date_single_start>
         <date_text>11/27/1943</date_text>
         <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 8</title>
@@ -411,17 +365,14 @@
         <series_issue>Number 8</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no8/airscoop_vol1-no8_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no8_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=916</object_in_context>
         <identifier>airscoop_vol1-no20</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -437,7 +388,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1944-02-19</date_single_start>
         <date_text>2/19/1944</date_text>
         <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 20</title>
@@ -446,17 +396,14 @@
         <series_issue>Number 20</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no20/airscoop_vol1-no20_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no20_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=924</object_in_context>
         <identifier>airscoop_vol1-no4</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -472,7 +419,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1943-10-30</date_single_start>
         <date_text>10/30/1943</date_text>
         <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 4</title>
@@ -481,17 +427,14 @@
         <series_issue>Number 4</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no4/airscoop_vol1-no4_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no4_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=904</object_in_context>
         <identifier>airscoop_vol1-no1</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -507,7 +450,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1943-10-09</date_single_start>
         <date_text>10/9/1943</date_text>
         <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 1</title>
@@ -516,17 +458,14 @@
         <series_issue>Number 1</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no1/airscoop_vol1-no1_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no1_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=906</object_in_context>
         <identifier>airscoop_vol1-no11</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -542,7 +481,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1943-12-18</date_single_start>
         <date_text>12/18/1943</date_text>
         <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 11</title>
@@ -551,17 +489,14 @@
         <series_issue>Number 11</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no11/airscoop_vol1-no11_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no11_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=929</object_in_context>
         <identifier>airscoop_vol1-no9</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -577,7 +512,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1943-12-04</date_single_start>
         <date_text>12/4/1943</date_text>
         <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 9</title>
@@ -586,17 +520,14 @@
         <series_issue>Number 9</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no9/airscoop_vol1-no9_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no9_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=913</object_in_context>
         <identifier>airscoop_vol1-no18</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -612,7 +543,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1944-02-05</date_single_start>
         <date_text>2/5/1944</date_text>
         <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 18</title>
@@ -621,17 +551,14 @@
         <series_issue>Number 18</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no18/airscoop_vol1-no18_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no18_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=911</object_in_context>
         <identifier>airscoop_vol1-no16</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -647,7 +574,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1944-01-22</date_single_start>
         <date_text>1/22/1944</date_text>
         <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 16</title>
@@ -656,17 +582,14 @@
         <series_issue>Number 16</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no16/airscoop_vol1-no16_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no16_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=914</object_in_context>
         <identifier>airscoop_vol1-no19</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -682,7 +605,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1944-02-12</date_single_start>
         <date_text>2/12/1944</date_text>
         <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 19</title>
@@ -691,17 +613,14 @@
         <series_issue>Number 19</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no19/airscoop_vol1-no19_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no19_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=922</object_in_context>
         <identifier>airscoop_vol1-no28</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -717,7 +636,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1944-04-29</date_single_start>
         <date_text>4/29/1944</date_text>
         <title>Air-Scoop : 63rd C.T.D., hot pilot. Volume 1, Number 28</title>
@@ -726,17 +644,14 @@
         <series_issue>Number 28</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no28/airscoop_vol1-no28_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no28_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=918</object_in_context>
         <identifier>airscoop_vol1-no22</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -752,7 +667,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1944-03-04</date_single_start>
         <date_text>3/4/1944</date_text>
         <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 22</title>
@@ -761,17 +675,14 @@
         <series_issue>Number 22</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no22/airscoop_vol1-no22_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no22_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=909</object_in_context>
         <identifier>airscoop_vol1-no14</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -787,7 +698,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1944-01-08</date_single_start>
         <date_text>1/8/1944</date_text>
         <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 14</title>
@@ -796,17 +706,14 @@
         <series_issue>Number 14</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no14/airscoop_vol1-no14_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no14_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=905</object_in_context>
         <identifier>airscoop_vol1-no10</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -822,7 +729,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1943-12-11</date_single_start>
         <date_text>12/11/1943</date_text>
         <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 10</title>
@@ -831,17 +737,14 @@
         <series_issue>Number 10</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no10/airscoop_vol1-no10_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no10_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=926</object_in_context>
         <identifier>airscoop_vol1-no6</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -857,7 +760,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1943-11-13</date_single_start>
         <date_text>11/13/1943</date_text>
         <title>Air scoop : 63rd C.T.D., hot pilot. Volume 1, Number 6</title>
@@ -866,17 +768,14 @@
         <series_issue>Number 6</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no6/airscoop_vol1-no6_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no6_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
     </row>
     <row>
-        <object_in_context>http://digital.lib.utk.edu/mpds/?ckey=airscoop&amp;iid=920</object_in_context>
         <identifier>airscoop_vol1-no24</identifier>
         <identifier_opac>9913484060102311</identifier_opac>
         <collection>University of Tennessee Aviation Cadets Collection, 1943-1944</collection>
@@ -892,7 +791,6 @@
         <item_type>text</item_type>
         <form>periodicals | http://vocab.getty.edu/aat/300026657</form>
         <genre>College student newspapers and periodicals | http://id.loc.gov/authorities/subjects/sh85028351</genre>
-        <internet_media_type>image/jp2</internet_media_type>
         <date_single_start>1944-03-18</date_single_start>
         <date_text>3/18/1944</date_text>
         <title>Air-Scoop : 63rd C.T.D., hot pilot. Volume 1, Number 24</title>
@@ -901,11 +799,9 @@
         <series_issue>Number 24</series_issue>
         <rights>The copyright interests in this item remain with the creator. For more information, contact Special Collections at special@utk.edu.</rights>
         <repository>University of Tennessee, Knoxville. Special Collections</repository>
-        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre | Type: corporate</name>
+        <name>United States. Army Air Forces. College Training Detachment, 63rd | Role: Creator | Role URI:http://id.loc.gov/vocabulary/relators/cre</name>
         <record_source>University of Tennessee, Knoxville. Libraries</record_source>
         <public_note>This is a publication by students at the University of Tennessee, Knoxville.</public_note>
-        <file_url>http://digital.lib.utk.edu/mpds/data/airscoop/airscoop_vol1-no24/airscoop_vol1-no24_0001.jpg.t.jpg</file_url>
-        <filename>airscoop_vol1-no24_0001.jp2</filename>
         <record_creation_date>2015-01-09T05:07:41Z</record_creation_date>
         <digital_origin>reformatted digital</digital_origin>
         <project_title>Air Scoop: The Air Force Cadet Newspaper</project_title>
